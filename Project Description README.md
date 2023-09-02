@@ -22,9 +22,9 @@ I collected and analysed COVID-19 data from two distinct datasets: one containin
 
 **Notable Outcomes/Results**:
 
-1. The project provided a clear visualisation of the global progress of COVID-19 vaccinations and highlighted countries with the highest vaccination rates.
-2. Mortality analysis revealed key insights into regions with the highest COVID-19 death counts, shedding light on areas that may require additional healthcare resources.
-3. The percentage of the population infected and vaccinated was calculated, offering a comprehensive view of the pandemic's impact on different countries and populations.
-4. Interactive Tableau visualisations enhanced user engagement and provided an intuitive way to explore and interact with the data, fostering a deeper understanding of the pandemic's dynamics.
+- The project provided a clear visualisation of the global progress of COVID-19 vaccinations and highlighted countries with the highest vaccination rates.
+- Mortality analysis revealed key insights into regions with the highest COVID-19 death counts, shedding light on areas that may require additional healthcare resources.
+- The percentage of the population infected and vaccinated was calculated, offering a comprehensive view of the pandemic's impact on different countries and populations.
+- Interactive Tableau visualisations enhanced user engagement and provided an intuitive way to explore and interact with the data, fostering a deeper understanding of the pandemic's dynamics.
 
 Overall, this being my first project, it demonstrated my skill in data analysis, integration, and visualisation to create dynamic and informative visual representations of the COVID-19 data.
