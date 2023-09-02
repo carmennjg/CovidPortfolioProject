@@ -14,13 +14,13 @@ I collected and analysed COVID-19 data from two distinct datasets: one containin
 - **Population Impact**: I assessed the impact of COVID-19 on populations by calculating the percentage of people infected and vaccinated in relation to the total population.
 - **Tableau Visualisations**: I leveraged Tableau to create interactive and visually compelling data visualisations that enhanced the project's accessibility and user engagement.
 
-**Technologies/Tools Used**:
+**Tools Used**:
 
 - SQL: To query and manipulate data from the COVID-19 datasets.
 - Azure Data Studio: For database management and querying, creating views, temporary tables, and performing data transformations.
 - Data Visualisation: Tableau was employed to design interactive and informative data visualisations, adding an extra layer of insight to the project's findings.
 
-**Notable Outcomes/Results**:
+**Notable Outcomes**:
 
 - The project provided a clear visualisation of the global progress of COVID-19 vaccinations and highlighted countries with the highest vaccination rates.
 - Mortality analysis revealed key insights into regions with the highest COVID-19 death counts, shedding light on areas that may require additional healthcare resources.
